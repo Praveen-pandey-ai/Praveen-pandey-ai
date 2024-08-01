@@ -46,7 +46,7 @@
 <!-- Languages and Tools -->
 ---
 
-### 🛠 Technologies & Tools
+### 🛠 Tools & Technologies 
 
 ![Python](https://img.shields.io/badge/-Python-333?style=flat&logo=python)
 ![TensorFlow](https://img.shields.io/badge/-TensorFlow-333?style=flat&logo=tensorflow)

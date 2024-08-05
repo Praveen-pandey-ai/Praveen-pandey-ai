@@ -16,7 +16,7 @@
 
 ### 
 
-<img src="https://github-readme-stats.vercel.app/api?username=praveen-pandey-ai&show_icons=true&theme=radical" alt="Praveen's GitHub stats" style="width: 39%;">
+<img src="https://github-readme-stats.vercel.app/api?username=praveen-pandey-ai&show_icons=true&theme=radical" alt="Praveen's GitHub stats" style="width: 45%;">
 <div>
     <a href="https://github-readme-streak-stats.herokuapp.com/?user=praveen-pandey-ai&theme=dark"> </a>
     <a> <img src="https://github-readme-streak-stats.herokuapp.com/?user=praveen-pandey-ai&theme=dark" alt="GitHub Streak" width="400" style="border: 2px solid #61dafb; border-radius: 10px; padding: 10px;" />

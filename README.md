@@ -28,7 +28,7 @@
 ---
   
 
- <!-- Connect with Me -->
+ <!-- Connect with Me on -->
   <div align="center" style="margin-left: 20px;">
     <h3 style="border-bottom: 2px solid #61dafb; padding-bottom: 5px; margin-bottom: 10px;">Connect with me on:</h3>
     <p>

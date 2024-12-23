@@ -1,7 +1,7 @@
 <h1 align="center">Hello, I'm Praveen Pandey</h1>
 <!-- Header with Logo -->
 <p align="center">
-  <img src="https://github.com/Praveen-pandey-ai/Private-Repos/blob/main/Cover%20page.jpg" alt="Logo" width="100%" style="border-radius: 10px;" />
+  <img src="Cover page.jpg" alt="Logo" width="100%" style="border-radius: 10px;" />
 </p>
 
 
